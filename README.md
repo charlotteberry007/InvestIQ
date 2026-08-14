@@ -1,5 +1,5 @@
 # 📈 InvestIQ
-
+---
 ## AI-Powered Stock Portfolio Intelligence Platform
 
 InvestIQ is a full-stack stock portfolio management and analytics platform designed to help users **track investments, analyze portfolio performance, evaluate risk, explore market data, receive portfolio recommendations, and interact with an AI-powered investment assistant** through a modern dashboard.
@@ -24,7 +24,7 @@ The application provides an interactive dashboard where users can:
 ---
 
 # 🚀 Features
-
+---
 ## 📊 Portfolio Dashboard
 
 The dashboard provides an overview of the user's investment portfolio.
