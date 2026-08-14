@@ -1,4 +1,4 @@
- 📈 InvestIQ
+# 📈 InvestIQ
 ---
 ## AI-Powered Stock Portfolio Intelligence Platform
 
