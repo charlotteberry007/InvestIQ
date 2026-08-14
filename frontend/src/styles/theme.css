@@ -1,0 +1,14 @@
+.glass{
+    background:rgba(15,23,42,.55);
+    backdrop-filter:blur(18px);
+    border:1px solid rgba(255,255,255,.08);
+    box-shadow:
+        0 8px 40px rgba(0,0,0,.45),
+        inset 0 1px rgba(255,255,255,.05);
+}
+
+.glow{
+    box-shadow:
+      0 0 0 rgba(0,0,0,0),
+      0 0 80px rgba(59,130,246,.10);
+}

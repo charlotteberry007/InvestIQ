@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #root {
+    width: 100%;
+    min-height: 100%;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 128px;
+    --tw-scrollbar-thumb: var(--color-indigo-100);
+    scrollbar-color: var(--tw-scrollbar-thumb) var(--tw-scrollbar-track);
+  }
+  body {
+    font-family: Inter, system-ui, sans-serif;
+    background: #030712;
+    color: white;
+    overflow-x: hidden;
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  img {
+    user-select: none;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
