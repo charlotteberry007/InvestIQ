@@ -1,4 +1,4 @@
-# 📈 InvestIQ
+ 📈 InvestIQ
 ---
 ## AI-Powered Stock Portfolio Intelligence Platform
 
@@ -24,7 +24,8 @@ The application provides an interactive dashboard where users can:
 ---
 
 # 🚀 Features
----
+
+
 ## 📊 Portfolio Dashboard
 
 The dashboard provides an overview of the user's investment portfolio.
